@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anand and I'm a Web OTT Developer</h2>
+<h2 align="left">Hi 👋! My name is Anand and I'm an OTT Developer</h2>
 
 ###
 
